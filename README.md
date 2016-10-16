@@ -1,5 +1,3 @@
-# Emoticons
-
 # meteor_simple_messaging_app
 this is a small messaging application like based on Meteorjs &amp; nodejs
 
